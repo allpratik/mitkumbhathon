@@ -1,4 +1,4 @@
-## Food- Wars
+## FoodWars
 
 Built With & On
 * [MeteorJS](https://www.meteor.com)
@@ -15,7 +15,7 @@ Meteor Packages
 ## Project Structure
 
 ```
-lunch-o-meter/
+foodWars/
 ├── client             # <- client specific libraries
 │   ├── config         # <- client specific configuration (Router.configure({...}), etc)
 │   ├── lib            # <- client specific libraries & methods
@@ -57,7 +57,7 @@ Done installing smart packages
 
 Ok, everything's ready. Here comes Meteor!
 
-[[[[[ ~/Projects/JavaScript/foodWars ]]]]]
+[[[[[ ~/canvas/kumbhathon/foodWars ]]]]]
 
 => Started proxy.
 => Started MongoDB.
