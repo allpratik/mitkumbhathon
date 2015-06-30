@@ -1,4 +1,4 @@
-## Lunch-O-Mete(o)r
+## Food- Wars
 
 Built With & On
 * [MeteorJS](https://www.meteor.com)
@@ -57,7 +57,7 @@ Done installing smart packages
 
 Ok, everything's ready. Here comes Meteor!
 
-[[[[[ ~/Projects/JavaScript/lunch-o-meter ]]]]]
+[[[[[ ~/Projects/JavaScript/foodWars ]]]]]
 
 => Started proxy.
 => Started MongoDB.
@@ -65,20 +65,13 @@ Ok, everything's ready. Here comes Meteor!
 ```
 ## Usage
 
-First, you will need to add some ideas!
-<p align="center">
-<img align="center" src="https://raw.githubusercontent.com/chrismagnacca/lunch-o-meter/master/README/no-options-input.png" alt="No Options Provided!">
-</p>
+1. First, you will need to add some ideas!
 
-Type in a new option, hit Enter, and voilà.
-<p align="center">
-<img align="center" src="https://raw.githubusercontent.com/chrismagnacca/lunch-o-meter/master/README/1-option-added.png" alt="Single Option Added">
-</p>
 
-Add as many options as you would like and upvote/downvote!
-<p align="center">
-<img align="center" src="https://raw.githubusercontent.com/chrismagnacca/lunch-o-meter/master/README/1-lunch-option-voted.png" alt="2 Options & Votes">
-</p>
+2. Type in a new option, hit Enter, and voilà.
+
+
+3. Add as many options as you would like and upvote/downvote!
 
 ## FAQ
 
